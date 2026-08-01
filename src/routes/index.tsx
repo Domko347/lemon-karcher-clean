@@ -75,10 +75,10 @@ function Index() {
             </div>
           </div>
           <img
-            src={heroImg}
+            src={heroImg.url}
             alt="Kärcher Puzzi 10/1 szőnyeg- és kárpittisztító gép bérlés Győr"
-            width={1200}
-            height={912}
+            width={1441}
+            height={1092}
             className="rounded-2xl border-4 border-primary object-cover"
           />
         </section>
