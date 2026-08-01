@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import heroImg from "@/assets/puzzi-hero.png.asset.json";
 
-const TEL = "06 30 298 8360";
+const TEL = "+36 30 298 8360";
 const TEL_HREF = "tel:+36302988360";
 
 export const Route = createFileRoute("/")({
