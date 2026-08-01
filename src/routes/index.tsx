@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import heroImg from "@/assets/puzzi-hero.png.asset.json";
 
-const TEL = "06 30 298 8360";
+const TEL = "+36 30 298 8360";
 const TEL_HREF = "tel:+36302988360";
 
 export const Route = createFileRoute("/")({
@@ -11,13 +11,13 @@ export const Route = createFileRoute("/")({
       {
         name: "description",
         content:
-          "Kärcher Puzzi 10/1 szőnyeg- és kárpittisztító gép bérlése Győrben. 6.500 Ft / 24 óra, 5.000 Ft / 4 óra. 9028 Győr, Balogh Ádám u. 6. Tel.: 06 30 298 8360.",
+          "Kärcher Puzzi 10/1 szőnyeg- és kárpittisztító gép bérlése Győrben. 6.500 Ft / 24 óra, 5.000 Ft / 6 óra. 9028 Győr, Balogh Ádám u. 6. Tel.: +36 30 298 8360.",
       },
       { property: "og:title", content: "Kärcher Puzzi 10/1 bérlés Győr" },
       {
         property: "og:description",
         content:
-          "Szőnyeg- és kárpittisztító gép kölcsönzés Győrben. 6.500 Ft / 24 óra. Hívjon: 06 30 298 8360.",
+          "Szőnyeg- és kárpittisztító gép kölcsönzés Győrben. 6.500 Ft / 24 óra. Hívjon: +36 30 298 8360.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
