@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import heroImg from "@/assets/puzzi-hero.jpg";
+import heroImg from "@/assets/puzzi-hero.png.asset.json";
 
 const TEL = "06 30 298 8360";
 const TEL_HREF = "tel:+36302988360";
@@ -75,10 +75,10 @@ function Index() {
             </div>
           </div>
           <img
-            src={heroImg}
+            src={heroImg.url}
             alt="Kärcher Puzzi 10/1 szőnyeg- és kárpittisztító gép bérlés Győr"
-            width={1200}
-            height={912}
+            width={1441}
+            height={1092}
             className="rounded-2xl border-4 border-primary object-cover"
           />
         </section>
