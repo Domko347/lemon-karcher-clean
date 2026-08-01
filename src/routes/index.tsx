@@ -88,9 +88,9 @@ function Index() {
             <h2 className="text-2xl font-extrabold">Bérleti díjak</h2>
             <div className="mt-6 grid gap-4 sm:grid-cols-3">
               {[
-                { t: "4 óra", p: "5.000 Ft" },
+                { t: "6 ÓRA", p: "5.000 Ft" },
                 { t: "24 óra", p: "6.500 Ft" },
-                { t: "Kaució", p: "20.000 Ft" },
+                { t: "Kaució", p: "Nincs" },
               ].map((x) => (
                 <div
                   key={x.t}
