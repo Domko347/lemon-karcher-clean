@@ -175,7 +175,7 @@ function Index() {
       </main>
 
       <footer className="border-t border-border py-6 text-center text-sm text-muted-foreground">
-        Szabadhegyi Gépkölcsönző – Kärcher Puzzi 10/1 bérlés Győr
+        {"\n"}
       </footer>
     </div>
   );
