@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://szonyegtisztito-gyor.hu/sitemap.xml

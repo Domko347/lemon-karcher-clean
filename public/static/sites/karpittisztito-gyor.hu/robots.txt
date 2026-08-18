@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://karpittisztito-gyor.hu/sitemap.xml
