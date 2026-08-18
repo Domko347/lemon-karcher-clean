@@ -144,7 +144,7 @@ function Index() {
                 A bérleti szerződéshez személyi igazolvány és lakcímkártya szükséges. Adatokat
                 csak a kölcsönzés idejére tárolunk.
               </li>
-              <li>Minden bérlésnél kauciót kérünk, amit hiánytalanul visszafizetünk.</li>
+              <li>Pénzbeli kauciót nem kérünk.</li>
               <li>
                 A szerződésben meghatározott időn túli használatért – 30 perc türelmi idő után –
                 plusz 1 napi bérleti díj fizetendő.
