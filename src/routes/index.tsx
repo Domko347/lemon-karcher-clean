@@ -104,8 +104,8 @@ function Index() {
               ))}
             </div>
             <p className="mt-4 text-sm text-muted-foreground">
-              A kauciót a gép sérülésmentes, tiszta állapotban való visszahozatalakor teljes
-              egészében visszafizetjük.
+              Pénzbeli kauciót nem kérünk. A bérleti szerződéshez érvényes személyi igazolvány
+              és lakcímkártya szükséges.
             </p>
           </div>
         </section>
@@ -144,7 +144,7 @@ function Index() {
                 A bérleti szerződéshez személyi igazolvány és lakcímkártya szükséges. Adatokat
                 csak a kölcsönzés idejére tárolunk.
               </li>
-              <li>Minden bérlésnél kauciót kérünk, amit hiánytalanul visszafizetünk.</li>
+              <li>Pénzbeli kauciót nem kérünk.</li>
               <li>
                 A szerződésben meghatározott időn túli használatért – 30 perc türelmi idő után –
                 plusz 1 napi bérleti díj fizetendő.

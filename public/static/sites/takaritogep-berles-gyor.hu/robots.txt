@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://takaritogep-berles-gyor.hu/sitemap.xml
