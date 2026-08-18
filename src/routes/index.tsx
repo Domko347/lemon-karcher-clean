@@ -104,8 +104,8 @@ function Index() {
               ))}
             </div>
             <p className="mt-4 text-sm text-muted-foreground">
-              A kauciót a gép sérülésmentes, tiszta állapotban való visszahozatalakor teljes
-              egészében visszafizetjük.
+              Pénzbeli kauciót nem kérünk. A bérleti szerződéshez érvényes személyi igazolvány
+              és lakcímkártya szükséges.
             </p>
           </div>
         </section>
